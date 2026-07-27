@@ -1,72 +1,53 @@
-# Hi, I'm Axxon
+# Hi, I'm Sébastien Grans
 
-### Senior Backend PHP Engineer · Laravel · Symfony · Product Engineering
+### Senior Software Engineer · PHP/Laravel/Symfony · Software Quality · Controlled Agentic Delivery
 
-I am a backend-oriented software engineer based in Lozère, France, with **7 years of salaried professional experience** building and operating web applications, APIs and business-critical services.
+I am a backend-oriented software engineer based in Lozère, France, with seven years of salaried professional experience across cybersecurity, mobile payments, retirement services, logistics, APIs and business-critical applications.
 
-I work across the full delivery cycle: clarifying requirements, designing pragmatic solutions, implementing and testing them, reviewing code, shipping to production and investigating incidents. I care about maintainable architecture, explicit API contracts, useful tests and observable systems.
+My value is not limited to a framework. I clarify product needs, ship the requested features and leave code easier to understand, test and operate. I work across architecture, implementation, API contracts, review, CI/CD, performance, observability and production support.
 
-I am open to **senior backend or backend-oriented full-stack roles, fully remote from France**.
+I am open to senior backend or backend-oriented full-stack roles, initially fully remote from France, with a path toward technical leadership. Voice AI, conversational interfaces, speech technologies and AI-assisted communication are especially interesting to me.
 
-## Technologies
+## Core engineering
 
-**Backend and APIs**
+`PHP 8` · `Laravel` · `Symfony` · `API Platform` · `REST/OpenAPI`  
+`Vue 3` · `TypeScript` · `JavaScript`  
+`MySQL` · `PostgreSQL` · `Redis` · `queues/workers`  
+`PHPUnit` · `PHPStan/Larastan` · `Playwright` · `mutation testing`  
+`Docker` · `CI/CD` · `Kubernetes` · `AWS` · `ELK/Grafana` · `Sentry`
 
-![PHP](https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
-![API Platform](https://img.shields.io/badge/API_Platform-38A9B4?style=flat-square)
-![REST](https://img.shields.io/badge/REST-005571?style=flat-square)
-![OpenAPI](https://img.shields.io/badge/OpenAPI-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+## Controlled agentic delivery
 
-**Frontend**
+I use specialised AI agents as an engineering team that remains under human control:
 
-![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111111)
+- explicit scopes, specifications and acceptance criteria;
+- isolated branches and worktrees;
+- reproducible Docker/Make validations;
+- automated tests, audits and evidence;
+- no auto-merge; final review and integration remain human-owned.
 
-**Data, quality and delivery**
+For Sonomundi, I adapted Paperclip as the control plane for this workflow. I also designed a versioned, machine-readable domain ontology that connects roles, capabilities, routes and implementation evidence, making the product easier to inspect and evolve.
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-3C9CD7?style=flat-square)
-![PHPStan](https://img.shields.io/badge/PHPStan-4F5B93?style=flat-square)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=111111)
+This is not a claim of human people management. It is practical experience in framing, delegation, quality criteria, progress tracking, trade-offs and feedback that I now want to transfer into technical leadership with a human team.
 
-**Production and AI-assisted engineering**
-
-`queues/workers` · `WebSockets` · `Kubernetes` · `AWS CloudWatch` · `ELK` · `Grafana` · `Sentry`
-
-`OpenAI` · `Claude` · `Codex` · `MCP` · `LangChain/LangGraph` · `CocoIndex` · `Paperclip`
-
-I use AI as a controlled engineering accelerator. Architecture, review, reproducible tests and final integration remain human-owned.
-
-## Selected projects
-
-### [no-excuse](https://github.com/Axxon/no-excuse)
-
-**July 2026 · Open-source prototype**
-
-A self-hosted Laravel/Vue recruitment workflow for explainable AI-assisted scoring and accountable human decisions. CVs are pseudonymized locally before remote analysis, sensitive data is encrypted, and every result remains a proposal for a human reviewer.
-
-[Live demo](https://no-excuse.pro/) · [Source code](https://github.com/Axxon/no-excuse)
+## Selected work
 
 ### Sonomundi
 
 **December 2025–Present · Side project, now largely automated**
 
-A Laravel 12/Vue 3/TypeScript event and music platform with multi-role workflows, REST/OpenAPI contracts, MySQL, Redis, asynchronous processing, automated tests, Docker and monitored deployments.
+A Laravel 12/Vue 3/TypeScript event and music platform used to apply product engineering, project framing and controlled multi-agent delivery.
 
-[Live demo](https://demo.electronic.sonomundi.com/)
+[Technical case study](https://axxon.github.io/en/sonomundi/) · [Live demo](https://demo.electronic.sonomundi.com/)
 
-### [php-dead-is-dead](https://github.com/Axxon/php-dead-is-dead)
+### Public engineering worklog
 
-A small JavaScript browser extension that hides recurring LinkedIn posts announcing, once again, the death of PHP.
+An anonymised activity log showing selected delivery work, quality controls and progress evidence from Sonomundi.
 
-## Links
+[View the public worklog](https://github.com/Axxon/public-worklog)
 
-[Portfolio and full CV](https://axxon.github.io/) · [LinkedIn](https://www.linkedin.com/in/axxonn/)
+### Portfolio and CV
+
+A bilingual account of my experience, engineering approach, career transition and current goals.
+
+[Portfolio](https://axxon.github.io/) · [LinkedIn](https://www.linkedin.com/in/axxonn/)
