@@ -6,7 +6,7 @@ I am a backend-oriented software engineer based in Lozère, France, with seven y
 
 My value is not limited to a framework. I clarify product needs, ship the requested features and leave code easier to understand, test and operate. I work across architecture, implementation, API contracts, review, CI/CD, performance, observability and production support.
 
-I am open to senior backend or backend-oriented full-stack roles, initially fully remote from France, with a path toward technical leadership. Voice AI, conversational interfaces, speech technologies and AI-assisted communication are especially interesting to me.
+I am open to senior backend or backend-oriented full-stack roles, initially fully remote from France, with a path toward technical leadership.
 
 ## Core engineering
 
